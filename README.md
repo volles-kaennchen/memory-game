@@ -3,7 +3,7 @@
 An simple memory game with HTML, CSS and Javascript.
 
 
-Feel free to downlad.
+Feel free to fork or downlad.
 
 
 #### Credits to "Coding Artist" and "Amit Patel"
